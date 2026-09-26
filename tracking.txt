@@ -1,0 +1,18 @@
+# section 1: done 
+# section 2: done
+# section 3: done 
+
+# section 4: c# programming fundamentals
+    what is c# -> done
+    hello world -> done 
+    hello world explicit -> done
+    the c# compiler -> done
+    program arguments -> done
+    debugging in visual studio -> done 
+    console input / output -> done
+    c# cheat sheet -> done
+    c# value types -> done
+    using c# value types -> done
+    casting and value types -> done
+    quiz c# value type -> done
+    strings --> waiting

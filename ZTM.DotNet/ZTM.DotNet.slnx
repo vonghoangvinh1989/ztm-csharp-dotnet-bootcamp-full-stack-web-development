@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="ConsoleInput/ConsoleInput.csproj" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="HelloWorldExplicit/HelloWorldExplicit.csproj" />
+  <Project Path="ProgramArguments/ProgramArguments.csproj" />
+  <Project Path="ProgramArgumentsExplicit/ProgramArgumentsExplicit.csproj" />
+  <Project Path="TypeConversions/TypeConversions.csproj" />
+  <Project Path="ValueTypes/ValueTypes.csproj" />
+</Solution>

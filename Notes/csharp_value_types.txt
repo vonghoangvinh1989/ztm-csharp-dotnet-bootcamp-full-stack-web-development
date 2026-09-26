@@ -1,0 +1,8 @@
+1) C# Data Types
+    value Types
+        integral types: int, long, char (0 to 65535)
+        floating-point types: float (32 bit), double (64 bit)
+        decimal type (128 bit): decimal
+        bool type (8 bit): bool (true, false)
+        char type (16 bit): char (0 - 65535), can not store negative number 
+        
