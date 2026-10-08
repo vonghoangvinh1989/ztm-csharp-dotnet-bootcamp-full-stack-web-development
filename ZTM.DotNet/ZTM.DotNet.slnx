@@ -4,6 +4,7 @@
   <Project Path="HelloWorldExplicit/HelloWorldExplicit.csproj" />
   <Project Path="ProgramArguments/ProgramArguments.csproj" />
   <Project Path="ProgramArgumentsExplicit/ProgramArgumentsExplicit.csproj" />
+  <Project Path="StringParsing/StringParsing.csproj" Id="ffd51efb-fb2d-4a9b-92b3-b7cc09a6250e" />
   <Project Path="Strings/Strings.csproj" Id="6ef764a8-7740-43af-8ed8-d846ba1eb14f" />
   <Project Path="TypeConversions/TypeConversions.csproj" />
   <Project Path="ValueTypes/ValueTypes.csproj" />
