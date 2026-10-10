@@ -1,7 +1,10 @@
 <Solution>
+  <Project Path="Conditionals/Conditionals.csproj" Id="cf4c03f2-e0b3-43b2-b832-f8ab0cbcb8d7" />
   <Project Path="ConsoleInput/ConsoleInput.csproj" />
+  <Project Path="DateTime/DateTime.csproj" Id="188135ec-27ce-48da-9660-eda5d93425ad" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="HelloWorldExplicit/HelloWorldExplicit.csproj" />
+  <Project Path="Operators/Operators.csproj" Id="f1d4e0bf-6287-4d4d-bf77-263217960424" />
   <Project Path="ProgramArguments/ProgramArguments.csproj" />
   <Project Path="ProgramArgumentsExplicit/ProgramArgumentsExplicit.csproj" />
   <Project Path="StringParsing/StringParsing.csproj" Id="ffd51efb-fb2d-4a9b-92b3-b7cc09a6250e" />

@@ -15,4 +15,10 @@
     using c# value types -> done
     casting and value types -> done
     quiz c# value type -> done
-    strings --> waiting
+    strings -> done
+    string parsing -> done
+    date and time -> done
+    operators -> done
+    conditionals -> done
+    switch statements --> waiting
+    
